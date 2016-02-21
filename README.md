@@ -1,0 +1,2 @@
+# UICollectionView-
+这个代码是通过一个UICollectionView实现广告图片的无限滚动Demo
